@@ -116,7 +116,7 @@ export default function SearchComponent(props) {
           <img src={logo} className="h-16 object-cover" />
           <div>
             <p className="text-center font-inter text-xl font-semibold">
-              PlatePal
+              DishPal
             </p>
             <p className="text-center font-inter text-xs font-semibold">
               From fridge to feast: share your ingredients, we'll do the rest!
